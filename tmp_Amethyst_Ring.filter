@@ -1,6 +1,12 @@
 # ## ANDROOX's LOOT FILTER ###
 # Designed to be as lightweight, natural and unobtrusive as possible.
 
+Show
+    LinkedSockets < 5
+    SetBorderColor 254 0 0
+    SetBackgroundColor 0 0 0
+    SetFontSize 40
+
 # Amethyst Ring
 Show
     BaseType "Amethyst Ring"

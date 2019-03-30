@@ -1,6 +1,20 @@
 # ## ANDROOX's LOOT FILTER ###
 # Designed to be as lightweight, natural and unobtrusive as possible.
 
+# 
+Show
+    Sockets = 6
+    SetBorderColor 254 0 0
+    SetBackgroundColor 0 0 0
+    SetFontSize 40
+
+# Show
+#     LinkedSockets < 3
+#     SocketGroup "RGB"
+#     SetBorderColor 254 0 0
+#     SetBackgroundColor 0 0 0
+#     SetFontSize 40
+
 # BESTIARY ### ### ###
 Show
     BaseType "Bestiary Orb" "Imprinted Bestiary Orb"
